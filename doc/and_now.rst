@@ -9,7 +9,7 @@ Some tools are already used by the administrations that feed them in daily life 
 the efficiency and effectiveness of services; in other cases, it is necessary to think of new 
 ones, precisely to cope with the lack of adequate solutions of Artificial Intelligence that 
 support the administration in the administrative activity and in the management of services.
-In this paragraph, we aim to indicate a small ìtoolboxî, a starting point pending more 
+In this paragraph, we aim to indicate a small ‚Äútoolbox‚Äù, a starting point pending more 
 operational steps and paths that can give a more solid and clear context to new technological 
 solutions, sustainable implementation of Artificial Intelligence really at the service of 
 citizens.
@@ -59,7 +59,7 @@ procurement (PCP, both on a national scale also in the context of regional
 planning through European funds) and finally to the public procurement of 
 services and innovative products (PPI).
 
-Iniziare "in piccolo"
+Start small
 ---------------------
 
 As with many other technologies, it is advisable to test the AI on a small scale 
