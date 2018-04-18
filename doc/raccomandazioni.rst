@@ -8,15 +8,12 @@ with the continuous public debate on Artificial Intelligence.
 
 1. **Promote** a national platform dedicated to the development of AI solutions in 
    order to: 
-
   a. promote the collection of annotated data, codes and learning models;
-
   b. organize and convey tests openly before the release of AI   systems used in 
      the PA in order to evaluate their behaviour and limit the anomalies and the 
      amplification of the bias;
-  
   c. offer adequate computing resources to experiment with techniques and solutions;
-
+  
 2. **Disclose** to the public the intermediate results of the elaboration of AI 
    algorithms (ex. parameters of neural networks) operated on data from public 
    administrations, subject to conditions that may harm the privacy and security 
