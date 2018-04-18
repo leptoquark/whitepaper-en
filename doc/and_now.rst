@@ -9,7 +9,7 @@ Some tools are already used by the administrations that feed them in daily life 
 the efficiency and effectiveness of services; in other cases, it is necessary to think of new 
 ones, precisely to cope with the lack of adequate solutions of Artificial Intelligence that 
 support the administration in the administrative activity and in the management of services.
-In this paragraph, we aim to indicate a small ìtoolboxî, a starting point pending more 
+In this paragraph, we aim to indicate a small ‚Äútoolbox‚Äù, a starting point pending more 
 operational steps and paths that can give a more solid and clear context to new technological 
 solutions, sustainable implementation of Artificial Intelligence really at the service of 
 citizens.
@@ -44,14 +44,14 @@ Let's not forget the three-year plan
 AI requires accelerating the path of digital transformation. The Three-Year 
 Plan provides all the indications to build the foundations on which it will be 
 possible to implement AI solutions. There are already many tools useful for the 
-implementation of the Three-Year Plan, such as the minimum measures for ICT 
-security to public administrations, which must be adopted to counter the most 
+implementation of the Three-Year Plan, such as the `minimum measures for ICT 
+security to public administrations <https://www.cert-pa.it/documents/10184/27607/CircolareAgID_170418_n_2_2017_Mis_minime_sicurezza_ICT_PA-GU-103-050517.pdf/7ca821ea-f8cc-4310-9fad-3c6ec1ca7f85>`__, which must be adopted to counter the most 
 common and frequent threats to which their information systems are subject.
 Or the many procurement channels that can be activated, depending on the 
 financial perimeter and the diversified technical needs: from the more classic 
-appeal to the Electronic Market for Public Administration (MEPA) and to the 
-Public Connection System (SPC), in particular, lot 3 on Interoperability for data 
-and application cooperation and lot 4 on the creation and management of 
+appeal to the Electronic Market for Public Administration (`MEPA <https://www.acquistinretepa.it/opencms/opencms/>`__) and to the 
+Public Connection System (SPC), in particular, `lot 3 <https://www.spclotto3.it/>`__ on Interoperability for data 
+and application cooperation and `lot 4 <https://www.spclotto4.it/index.html>`__ on the creation and management of 
 portals, APP, websites and web applications), up to the procurement tools for 
 innovation.
 In particular, on this last front, the references are those of pre-commercial 
