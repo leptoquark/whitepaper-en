@@ -39,8 +39,7 @@ to increase the use of online services, supporting, for example, a series of act
 
     - automating repetitive processes;
 
-    - analysing data that includes text/audio and video
-    information [1]_.
+    - analysing data that includes text/audio and video information [1]_.
 
 Finally, the integration of AI can contribute to increasing the capacity of public employees, 
 as a tool to support decision-making and without ever replacing human judgment. The 
