@@ -59,7 +59,7 @@ procurement (PCP, both on a national scale also in the context of regional
 planning through European funds) and finally to the public procurement of 
 services and innovative products (PPI).
 
-Iniziare "in piccolo"
+Start small
 ---------------------
 
 As with many other technologies, it is advisable to test the AI on a small scale 
