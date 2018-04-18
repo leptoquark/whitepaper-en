@@ -2,46 +2,32 @@
 =========================================
 
 What is Artificial Intelligence (AI)?
-There are many definitions, among them, the one of of the University of Stanford, which identifies it as “a science and a set of computational techniques that are inspired - albeit
-typically operating in a different way - by the way in which human beings use their nervous
-system and their body to feel, learn, reason and act” [1]_.
+There are many definitions, among them, the one of of the University of Stanford, which identifies it as “a science and a set of computational techniques that are inspired - albeit typically operating in a different way - by the way in which human beings use their nervous system and their body to feel, learn, reason and act” [1]_.
 
 Novels and science fiction films exploit and give credit to fear of the unknown: Artificial Intelligence is often represented in a negative way, as a danger to humanity, potentially capable of taking over and dominating [2]_ us but in reality AI is already part of our daily life.
 
 With the digital assistants of mobile phones, driver assistance systems, the  *chatbots* [3]_ that respond when we call public or private entities, systems for machine translation of texts and speeches, robots in the factory, algorithms that recommend us products and services to our liking and those that assist us in learning, or increasingly realistic and engaging video games.
 
-Artificial Intelligence, for example, can improve our lives by driving in our place, taking care
-of elderly people in need of assistance, carrying out dangerous and arduous jobs, helping us
-make informed decisions, rationally managing large amounts of data that would otherwise
-be difficult to interpret, allowing us to communicate while not knowing the language of
-our interlocutors, following us in our studies or increasing cultural and entertainment
-experiences or speeding up bureaucratic procedures.
+Artificial Intelligence, for example, can improve our lives by driving in our place, taking care of elderly people in need of assistance, carrying out dangerous and arduous jobs, helping us make informed decisions, rationally managing large amounts of data that would otherwise be difficult to interpret, allowing us to communicate while not knowing the language of our interlocutors, following us in our studies or increasing cultural and entertainment experiences or speeding up bureaucratic procedures.
 
-This is possible in certain specific application areas [4]_ thanks to recent developments in AI
-techniques, essentially due to the wide availability of annotated data, to the improvement
-in learning techniques and to the availability of high computational capacity at increasingly
-accessible costs.
+This is possible in certain specific application areas [4]_ thanks to recent developments in AI techniques, essentially due to the wide availability of annotated data, to the improvement in learning techniques and to the availability of high computational capacity at increasingly accessible costs.
 
 The main application areas 
 --------------------------
 
-There are already examples of how PA can benefit from adopting AI solutions; among these
-we already see effects and applications in the health, education and judiciary system, in
-public employment, security and, in general, in the management of relationships with
+There are already examples of how PA can benefit from adopting AI solutions; among these we already see effects and applications in the health, education and judiciary system, in public employment, security and, in general, in the management of relationships with
 citizens.
 
-In this latter field, Artificial Intelligence can be used to answer questions, to look for but
-also to process documents, fill in forms, to correctly route various types of requests or to
-perform translations [5]_.
+In this latter field, Artificial Intelligence can be used to answer questions, to look for but also to process documents, fill in forms, to correctly route various types of requests or to perform translations [5]_.
 
 +--------------------------------------------------------------------------------------------+
 | CHATBOT                                                                                    |
 |                                                                                            |
 | for example, a chatbot equipped with AI can respond simultaneously                         |
 | to conversations that come at a given time, eliminating waiting times and, once            |
-|  having understood the needs of its interlocutor, can direct him to the right departments, |
-|  help him find the documentation he needs, provide instructions to correctly submit        |
-|  his written requests, if necessary also speaking in a foreign language,                   |
+| having understood the needs of its interlocutor, can direct him to the right departments,  |
+| help him find the documentation he needs, provide instructions to correctly submit         |
+| his written requests, if necessary also speaking in a foreign language,                    |
 | or translating the bureaucratic terms that the user does not understand.                   |
 +--------------------------------------------------------------------------------------------+
 
@@ -64,8 +50,7 @@ interactions between administrative-technological systems and human beings.
 
 Moreover, it is already possible to imagine programming intelligent systems that read tests
 results and interpret them, based on the statistics conducted on large amounts of similar
-data and on their meaning [6]_. There are even predictive tools to assess potential risksThere are even predictive tools to assess potential risks of
-evolution of individual diseases.
+data and on their meaning [6]_. There are even predictive tools to assess potential risksThere are even predictive tools to assess potential risks of evolution of individual diseases.
 
 Precision medicine, research on personalized treatments, analysis on the possible effects
 of certain drugs on individual patients are all areas that promise great results, thanks to
@@ -105,13 +90,13 @@ improvement of services and the reduction of costs for their operation.
 |                                                                                                                          |
 | One of the main problems in all these areas is that of guaranteeing the security of the AI systems:                      |
 | entry of an attacker in systems that, for example, will be able to drive a bus, could jeopardize the lives               |
-|  of those on board, as too could tampering with the surveillance tools of a public place make it vulnerable              |
+| of those on board, as too could tampering with the surveillance tools of a public place make it vulnerable               |
 | to attacks, or knowledge, by a hacker, of the model used by the Artificial Intelligence for the management of            |
-|  sensitive data, could make such data insecure.To effectively address these issues, it is necessary to put in place      |
-|  various solutions, some of a technical nature, others of a more general nature, raising awareness among citizens        |
-|  and administrations. From a technical point of view, it is important to work to ensure that, by law, certain standards  |
-|  are guaranteed, both for the security of the data used by the algorithms, as well as for the security of the algorithms |
-|  themselves, imposing that, for their implementation, the security by design paradigm is always followed [10]_           |
+| sensitive data, could make such data insecure.To effectively address these issues, it is necessary to put in place       |
+| various solutions, some of a technical nature, others of a more general nature, raising awareness among citizens         |
+| and administrations. From a technical point of view, it is important to work to ensure that, by law, certain standards   |
+| are guaranteed, both for the security of the data used by the algorithms, as well as for the security of the algorithms  |
+| themselves, imposing that, for their implementation, the security by design paradigm is always followed [10]_            |
 +--------------------------------------------------------------------------------------------------------------------------+
 
 
@@ -142,8 +127,7 @@ more agile, effective and personalised way.
 We will all benefit from this, including the elderly, the disabled and citizens belonging to the
 disadvantaged categories.
 This will allow Public Administration to recover and strengthen the relationship of trust
-with the community. In order to encourage this recovery, introducing technologies such as
-
+with the community. In order to encourage this recovery, introducing technologies such as 
 AI in PA requires technical and administrative, but also systemic, narrative and aesthetic
 interventions, capable of generating meaning and involvement.
 
