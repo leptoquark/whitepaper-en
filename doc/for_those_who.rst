@@ -33,11 +33,9 @@ others.
 
 In order to successfully implement these technologies, it is necessary to evaluate the
 different challenges that must be faced to integrate Artificial Intelligence in a profitable way.
-First of all, the ethical problem (the Ethical challenge), which is the basis of every other
+First of all, the **ethical problem (the Ethical challenge)**, which is the basis of every other
 reflection in this field. It is needed to strongly affirm the anthropocentric principle stating
 that Artificial Intelligence is always at the service of people and not vice versa.
-
-
 Moreover, it is necessary to formulate general principles of equity with the aim of using
 these new technologies to address some universal needs such as to respect freedom and
 individual and collective rights. More specifically, in the field of ethics, the functioning of
@@ -49,7 +47,7 @@ to the development of a more unjust society that fuels inequalities, while aware
 risks involved in relying on “smart” machines can help us minimize the latter and plan a
 better world.
 
-The second challenge that is faced is the technological one: Artificial Intelligence is not
+The **second challenge that is faced is the technological one**: Artificial Intelligence is not
 yet able to reproduce the complex functioning of the human mind, but only some of its
 circumscribed capacities. Therefore, one of the goals is to make these technologies a bit
 more similar to our way of relating to the world, despite being something yet to be built.
@@ -59,7 +57,7 @@ individually in some specific areas of our daily life that, in this White Paper,
 closely linked to the work of the Public Administration (in addition to the sectors already
 mentioned above, focus is on the tax, mobility and transport sectors).
 
-We then move on to the fundamental issue of skills that must be developed in the age of
+We then move on to the **fundamental issue of skills** that must be developed in the age of
 Artificial Intelligence, and it is done from two points of view: that of citizens and that of
 public administration employees. For the former, it is necessary to understand how the
 algorithms and databases on which the latter operate work, to become a worker in the IT
@@ -77,7 +75,7 @@ offices of the Public Administration, will have to be able to understand what ki
 Intelligence tools integrate in work processes and which ones to offer to citizens. In this
 sense, a properly trained Public Administration can become a real innovation gym.
 
-The fourth challenge is related the algorithms that are based on the Artificial Intelligence.
+The **fourth challenge is related the algorithms** that are based on the Artificial Intelligence.
 First of all, they must be of good quality, exempt as much as possible from biases, prejudices,
 due to errors in their creation when they must be “annotated” by human beings, to teach
 machines how to interpret them. This is why it is important to create the best conditions,
@@ -92,7 +90,7 @@ technologies and shared ontologies. Lastly, precisely for this kind of data, we 
 need to make sure that anyone wishing to use it can have equal and non-discriminatory
 access.
 
-The fifth challenge is the legal one, focused, as always when it comes to regulating the
+The **fifth challenge is the legal one**, focused, as always when it comes to regulating the
 activity of the public administration, on the balance between the interests of the community
 and those of the individual. In this regard, for example, in the field of Artificial Intelligence
 it is necessary to reconcile the principle of transparency of administrative deeds or the
@@ -110,19 +108,18 @@ the databases on which they operate, the definition of the related responsibilit
 and the need to prevent the use of data on the part of the Public Administration generates
 pervasive social control, in contrast with the fundamental rights of the citizen.
 
-The sixth challenge is in charge of the Public Administration and consists in the actions
-necessary to accompany the transformation of the Country towards the adoption of Artificial
+The **sixth challenge** is in charge of the Public Administration and consists in the actions
+necessary to **accompany the transformation** of the Country towards the adoption of Artificial
 Intelligence, above all in the management of the relationship between the State, citizens
 and businesses. As anticipated in the section on skills, the White Paper underlines the
 importance of training public employees especially officials and managers, to understand
 the functioning, benefits and possible problems, ethical and technical, related to this kind
 of technology.
-
 The basic principle is that Artificial Intelligence should serve above all to support people and
 help them carry out their activities, but not to replace them. The importance of involving
 end users in all phases of public service design is also highlighted.
 
-This last point anticipates the theme of the seventh challenge: preventing inequalities.
+This last point anticipates the theme of the **seventh challenge: preventing inequalities**.
 Indeed, Artificial Intelligence must be accessible to everyone, so that anyone can benefit
 from its advantages. Because of that, it must of simple and immediate use.
 Also, this kind of technology can reduce social inequalities, as we have already seen for
@@ -135,8 +132,7 @@ transparent, that they comply with the requirements imposed by law, which precis
 not have discriminatory profiles that are free of bias.
 
 In order to verify the actual benefits deriving from the use of Artificial Intelligence
-in the Public Administration, the eighth challenge regards the measurement of
-the impact of the impact of this kind of technology. This problem is faced, once
+in the Public Administration, the **eighth challenge** regards the **measurement of the impact** of the impact of this kind of technology. This problem is faced, once
 again, from two points of view: that of the citizen and that of the institutions.
 In the first case, we reason in terms of improving people’s quality of life and customer
 satisfaction; in the second case, it reflects on the optimization of organizational processes
@@ -149,7 +145,7 @@ variables are generally not conducted by the Public Administration with the nece
 frequency; however, on a sensitive subject such as the introduction of Artificial Intelligence
 in the functioning mechanisms of the State, these practices must be carried out decisively.
 
-The last challenge, the human being, is that of developing a sense around Artificial Intelligence,
+The **last challenge, the human being**, is that of developing a sense around Artificial Intelligence,
 understood as the need to make sure that everyone, both citizens and Institutions, is aware
 of the significant importance of these tools, their advantages, but also their problems. To
 this end, experiments are proposed in the fields of design, arts, psychology, anthropology,
