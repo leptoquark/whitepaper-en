@@ -20,6 +20,19 @@ An overview of digital government in Italy
 
 Before describing the state of the art and the future prospects of Artificial Intelligence in our society and in Public Administration, it may be useful to analyse what is happening in the field of digital transformation in the public sector, in order to understand the current situation and imagine how AI can create synergies with the process of digitising the country.
 
++-----------------------------------------------------------------------------------------+
+| According to data reported in the last Report of the Organization for Economic          |
+| Cooperation and Development (OECD) on Digital Transformation1, our country is           |
+| in 5th place worldwide for the production of the most cited scientific documents        |
+| on machine learning after the United States, China, India and Great Britain             |
+| (science, innovation and digital revolution). Also in the same Report (section on       |
+| growth, work and digital transformation), 2015 data on the dissemination of industrial  |
+| robots show that Italy is among the leading economies in Europe (behind Germany,        |
+| Czech Republic, Slovak Republic and Slovenia) in terms of use of robots (ex. number     |
+| of robots compared to the value added in manufacturing), while showing indices equal to |
+| 1/3 compared to those of the world leader (South Korea).                                |
++-----------------------------------------------------------------------------------------+
+
 As the Digital Economy and Society Index - DESI 2017 [1]_, Italy is growing, but there is still a
 gap between the supply of digital services and their actual use. Our country has nevertheless
 made progress on connectivity, a basic condition to allow the development of a digital
