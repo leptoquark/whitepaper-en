@@ -26,9 +26,7 @@ of challenges for Public Administration:
 -  indicate the data sources that feed AI and through which it has made its assessments, and make the managers of administrative procedures aware of the processing methods used by AI systems.
 
 
-To ensure utmost transparency, citizens must be enabled to understand through which 
-path the AI system has reached a certain result [3]_, in a sufficiently clear way to possibly 
-recognize a calculation error and to intervene to correct it.
+To ensure utmost transparency, citizens must be enabled to understand through which path the AI system has reached a certain result [3]_, in a sufficiently clear way to possibly recognize a calculation error and to intervene to correct it.
 
 The use of sensitive data by Public Administration AI systems can compromise citizens’ 
 right to privacy, as well as certain fundamental rights of the individual, in the event that 
