@@ -1,15 +1,13 @@
 ﻿Challenge 1: Ethics
 -------------------
 
-The issue of Artificial Intelligence, as with the appearance and affirmation of every new technology, re-proposes the contrast between the "doom-mongers** and enthusiasts" [1]_.
+The issue of Artificial Intelligence, as with the appearance and affirmation of every new technology, re-proposes the contrast between the "doom-mongers and enthusiasts" [1]_. 
 
-The **doom-mongers** fear that Artificial Intelligence will prevail over people, will decide for them, steal their jobs, discriminate against them, violate their privacy, and will secretly
-control them by conditioning their lives.
+The **doom-mongers** fear that Artificial Intelligence will prevail over people, will decide for them, steal their jobs, discriminate against them, violate their privacy, and will secretly control them by conditioning their lives. 
 
-The **enthusiasts**, on the other hand, dream of a world where machines are capable of autonomously performing bureaucratic processes, of being used as powerful computational
-tools to process and interpret large amounts of data in the best way, replacing men in the most burdensome and repetitive tasks, and creating solutions able to diminish crime and eradicate diseases.
+The **enthusiasts**, on the other hand, dream of a world where machines are capable of autonomously performing bureaucratic processes, of being used as powerful computational tools to process and interpret large amounts of data in the best way, replacing men in the most burdensome and repetitive tasks, and creating solutions able to diminish crime and eradicate diseases.
 
-Basically there are two perceptions of technology, of diametrically opposite sign. on one hand.
+Basically there are two perceptions of technology, of diametrically opposite sign.
 
 That of the **doom-mongers**, negatively assesses the introduction of AI in Public
 Administration (PA), citing a series of critical issues that could have negative effects not
