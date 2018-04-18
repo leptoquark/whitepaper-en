@@ -9,7 +9,7 @@ Some tools are already used by the administrations that feed them in daily life 
 the efficiency and effectiveness of services; in other cases, it is necessary to think of new 
 ones, precisely to cope with the lack of adequate solutions of Artificial Intelligence that 
 support the administration in the administrative activity and in the management of services.
-In this paragraph, we aim to indicate a small ìtoolboxî, a starting point pending more 
+In this paragraph, we aim to indicate a small ‚Äútoolbox‚Äù, a starting point pending more 
 operational steps and paths that can give a more solid and clear context to new technological 
 solutions, sustainable implementation of Artificial Intelligence really at the service of 
 citizens.
@@ -52,8 +52,8 @@ financial perimeter and the diversified technical needs: from the more classic
 appeal to the Electronic Market for Public Administration (MEPA) and to the 
 Public Connection System (SPC), in particular, lot 3 on Interoperability for data 
 and application cooperation and lot 4 on the creation and management of 
-portals, APP, websites and web applications), up to the procurement tools for 
-innovation.
+portals, APP, websites and web applications), up to the `procurement tools for 
+innovation <https://www.agid.gov.it/agenda-digitale/innovazione-del-mercato>`__.
 In particular, on this last front, the references are those of pre-commercial 
 procurement (PCP, both on a national scale also in the context of regional 
 planning through European funds) and finally to the public procurement of 
@@ -68,7 +68,7 @@ Developing a pilot program allows those who decide to implement AI solutions
 to become familiar with the technology and to correct any errors during 
 development thus allowing the service itself to improve.
 There are several models that can be used to set up projects in an agile 
-manner: the site designers.italia.it provides a tailor-made kit for the PA for the 
+manner: the site `designers.italia.it <https://designers.italia.it/>`__  provides a tailor-made kit for the PA for the 
 development and design of projects. 
 In addition, AI involves a series of risks, well highlighted in the various challenges 
 of the White Paper, related to data protection and privacy, ethical dilemmas, the 
@@ -89,8 +89,8 @@ accessible.
 Thus, all administrations must ensure the quality and usability of the data they 
 provide, so as to be easily employed to test, use and refine AI systems.
 Useful tools, modelled on the needs of the PA for the use of data, their 
-interpretation and procedures for release, are the site dati.gov.it and the National 
-Guidelines for the Valorisation of Public Information Assets.
+interpretation and procedures for release, are the site `dati.gov.it <https://www.dati.gov.it/>`__ and the National 
+`Guidelines <http://lg-patrimonio-pubblico.readthedocs.io/it/latest/>`__for the Valorisation of Public Information Assets.
 
 Development of professionalism and skills
 -----------------------------------------
@@ -101,9 +101,9 @@ At the same time, administrations need substantial investment in human capital
 to manage the growth and potential of new technological systems.
 Universities and the public sector in general should face the possible lack of AIrelated skills with synergy and identify new models for working with AI experts 
 from the private sector and academic world. 
-On the ai.italia.it portal, a mapping of AI-related courses in Italy will soon be 
+On the `ia.italia.it <https://ia.italia.it/>`__ portal, a mapping of AI-related courses in Italy will soon be 
 available. 
-In the meantime, the evolution of the Italian ecosystem can be observed (https://ia.italia.it/en/ai-in-italy/) related to start-ups, research centers and other 
+In the meantime, the evolution of the Italian ecosystem can be observed (`https://ia.italia.it/ia-in-italia/ <https://ia.italia.it/ia-in-italia/>`__) related to start-ups, research centers and other 
 realities that deal with the production or use of AI solutions.
 
 Stay updated
@@ -112,8 +112,8 @@ The reference portal of the Artificial Intelligence Task Force, ai.italia.it wil
 active and updated with the initiatives that will be deployed in the coming 
 months. It is advisable to consult it frequently and to subscribe to the newsletter 
 to stay updated on developments and news.
-The community will also remain active, where it is possible to participate in open 
+The  `community <https://ia.italia.it/community/>`__, will also remain active, where it is possible to participate in open 
 (or start new) discussions on issues related to the Task Force activity and to AI 
 in general.
 For any information or any collaboration, there is always the email 
-intelligenzaartificiale@agid.gov.it
+intelligenzaartificiale@agid.gov.it `intelligenza-artificiale@agid.gov.it <mailto:intelligenza-artificiale@agid.gov.it>`__
