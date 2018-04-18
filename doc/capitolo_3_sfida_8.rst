@@ -59,8 +59,7 @@ define how these technologies can actually influence our lives.
 .. rubric:: Footnotes
 
 .. [1]
-   Justin Trudeau, Canadian premier, in his speech at the World Economic Forum Annual Meeting 2018 Ref. https://www.weforum.org/agenda/2018/01/pm-keynote-remarks-for-world-economic-forum-2018.
-   `https://www.weforum.org/agenda/2018/01/pm-keynote-remarks-for-world-economic-forum-2018 <https://www.weforum.org/agenda/2018/01/pm-keynote-remarks-for-world-economic-forum-2018>`__ (Consulted in February 2018).
+   Justin Trudeau, Canadian premier, in his speech at the World Economic Forum Annual Meeting 2018 Ref. <https://www.weforum.org/agenda/2018/01/pm-keynote-remarks-for-world-economic-forum-2018>`__ (Consulted in February 2018).
 
 .. [2]
    Ref. Challenge “Skills” and Challenge “Reducing inequalities”
