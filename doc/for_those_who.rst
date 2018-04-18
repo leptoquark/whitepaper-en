@@ -173,9 +173,9 @@ modernization and improvement of the state and of our society from here onwards.
 | well-being as a parameter for progress in the “algorithmic age”. Recognizing the potential of a holistic approach,    |
 | prosperity should in this way become more important than the pursuit of one-dimensional objectives such as increased  |
 | productivity or a country’s GDP growth.                                                                               |
-| Source: The IEEE Global Initiative on Ethics of Autonomous and Intelligent Systems_, 2017,                            |
+| Source: The IEEE Global Initiative on Ethics of Autonomous and Intelligent Systems, 2017,                             |
 | IEEE - Institute of Electrical and Electronics Engineers                                                              |
-| Ref. (https://standards.ieee.org/develop/indconn/ec/ead_executive_summary_v2.pdf)Executive summary10                  |
+| Ref. (https://standards.ieee.org/develop/indconn/ec/ead_executive_summary_v2.pdf)                                     |
 +-----------------------------------------------------------------------------------------------------------------------+
 
 
