@@ -27,19 +27,19 @@ well as the capacity of public officials to implement them.
 Within the scope of public services, AI can be used to optimise the internal resources of PA 
 to increase the use of online services, supporting, for example, a series of activities such as:
 
-    ● completing complex tasks;
+    - completing complex tasks;
 
-    ● dispatching citizens’ requests and answering their questions;
+    - dispatching citizens’ requests and answering their questions;
 
-    ● effectively managing large amounts of data;
+    - effectively managing large amounts of data;
 
-    ● combining information from different datasets;
+    - combining information from different datasets;
 
-    ● providing faster answers based on predictive scenarios;
+    - providing faster answers based on predictive scenarios;
 
-    ● automating repetitive processes;
+    - automating repetitive processes;
 
-    ● analysing data that includes text/audio and video
+    - analysing data that includes text/audio and video
     information [1]_.
 
 Finally, the integration of AI can contribute to increasing the capacity of public employees, 
@@ -107,14 +107,21 @@ sense, AgID, for example, has recently started initiated comparison and experime
 new scenarios for the dissemination of PCP (pre commercial procurement).
 
 
-+--------------------------------------------------------------------------------+
-| PCP                                                                            |
-|                                                                                |
-| Pre Commercial Procurement (PCP) is an innovative purchasing formula           |
-| on Research and Development issues, which enables procurement for new          |
-| methods of relationship and discussion with the market, in line with the great |
-| challenges posed by a modern Public Administration [5]_.                       |
-+--------------------------------------------------------------------------------+
++--------------------------------------------------------------------------------------------------------+
+| PCP                                                                                                    |
+| Pre Commercial Procurement (PCP) is an innovative purchasing                                           |
+| formula on Research and Development  issues, which enables procurement                                 |
+| for new methods of relationship and discussion with the market, in line with                           |
+| the great challenges posed by a modern Public Administration [5]_.The program                               |
+| deals with issues of significant social impact and public innovation: from autism                      |
+| to protectionfrom environmental risks, to food safety and quality, as well as innovative               |
+|  technological solutionsapplied to healthcare and e-government. Not only large companies               |
+| but also start-ups, smallbusinesses and venture capitalists have the opportunity to present innovative |
+| ideas and proposals.The PCP is therefore a fertile ground for experimentation and research aimed       |
+| at meeting social needseven with innovative tools related to AI. An example in this sense is the       |
+| “Technologies for Autism” contractaimed at identifying Virtual Reality and Augmented Reality           |
+| technologies typified for people withan autism spectrum condition (ASC).                               |
++--------------------------------------------------------------------------------------------------------+
 
 
 The program deals with issues of significant social impact and public innovation: from autism to protection from environmental risks, to food safety and quality, as well as innovative technological solutions applied to healthcare and e-government. Not only large companies but also start-ups, small 
