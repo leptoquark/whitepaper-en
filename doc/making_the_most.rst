@@ -32,6 +32,5 @@ liberty, security and non-discrimination.
 This paper already shows how Italy’s efforts in AI are a good example for other countries to emulate – and how they can help in Europe’s broader reflections on the way ahead.
 
 Andrus Ansip
-
 Vice-President of the European Commission
 for the Digital Single Market
