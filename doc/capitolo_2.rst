@@ -1,5 +1,5 @@
 ﻿Chapter 2 - Artificial intelligence today
------------------------------------------
+=========================================
 
 What is Artificial Intelligence (AI)?
 There are many definitions, among them, the one of of the University of Stanford, which identifies it as “a science and a set of computational techniques that are inspired - albeit
@@ -23,7 +23,7 @@ in learning techniques and to the availability of high computational capacity at
 accessible costs.
 
 The main application areas 
----------------------------
+--------------------------
 
 There are already examples of how PA can benefit from adopting AI solutions; among these
 we already see effects and applications in the health, education and judiciary system, in
