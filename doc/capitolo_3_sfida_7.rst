@@ -5,9 +5,7 @@ The objective of this challenge is to pay further attention on the ways in which
 Intelligence (AI) technologies can trigger positive effects in terms of reducing the existing 
 socio/economic/cultural differences.
 There are several areas in which the integration of AI solutions would reduce social 
-inequalities [1]_. 
-
-These include:
+inequalities [1]_. These include:
 
 -  education and training;
 
@@ -30,7 +28,7 @@ specialist knowledge to carry out certain activities. AI systems could spread ac
 information, knowledge of rights and could facilitate the methods for exercising them by 
 those who are in difficult living conditions and that do not have certain knowledge, thus 
 contributing to reducing discrimination. 
-This represents a very important area of   work that requires appropriate awareness raising and cultural promotion.
+This represents a very important area of work that requires appropriate awareness raising and cultural promotion.
 
 As for the disability sector, some interesting solutions are pointed out as they can guarantee easier, and more usable, access to services thus, improving the quality of life of individuals. 
 For example this is the case of integrated speech synthesizers for visually impaired persons, which could be implemented with automatic editing programs that can remember previous communications and provide drafts of text, or some experiments involving people suffering from degenerative diseases, like ALS, which provide communication systems which can complete and facilitate the communication process.
@@ -55,7 +53,7 @@ addressing the development of AI solutions in order to ensure that:
 
 -  they do not have discriminatory profiles;
 
--  they are free from *bias*.
+-  they are free from bias.
 
 In recent times, one of the most active research areas in the field of AI has been the study 
 of bias [5]_ both from a more formal statistical point of view and from a broader legal and 
@@ -78,21 +76,22 @@ is the context in which the Public Administration has the task of intervening, a
 the development of AI solutions, aware of the enormous potential that these have in the 
 promotion of a more widespread equity and in reducing the gaps existing in our community.
 
++----------------------------------------------------------------------------------------------------------------+
+| CASES OF BIAS                                                                                                  |
+|                                                                                                                |
+| Some cases of bias that recently have figured prominently:                                                     |
+| A case of unconscious bias/discrimination is, for example, the percentage of male personnel who develop        |
+| AI services compared to the female percentage (Ref. Global Gender Gap Report 2017                              |
+| https://assets.weforum.org/editor/AYpJgsnL2_I9pUhBQ7HII-erCJSEZ 9dsC4eVn5Ydfck.png, WEF).                      |
+| Another case, within the United States courts                                                                  |
+| https://www.propublica.org/article/machine-bias-riskassessments-in-criminal-sentencing                         |
+| (Software used in the United States with the aim of predicting which individuals more than others are likely   |
+| to be “future criminals” - has highlighted bias/prejudic eagainst people of colour.Lastly, the extensive use   |
+| of NLP techniques is rapidly showing how much the vocabularies of the mostspoken languages                     |
+| https://www.technologyreview.com/s/602025/how-vector-space-mathematicsreveals-the-hidden-sexism-in-language/   |
+| are strongly affected by gender bias.                                                                          |
++----------------------------------------------------------------------------------------------------------------+
 
-+-----------------------------------------------------------------------------------------------------------------------------------------------------+
-| CASES OF BIAS                                                                                                                                       |
-|                                                                                                                                                     |
-| Some cases of bias that recently have figured prominently:                                                                                          |
-| A case of unconscious bias/discrimination is, for example,                                                                                          |
-| the percentage of male personnel who develop AI services                                                                                            |
-| compared to the female percentage(Ref. Global Gender Gap Report 2017                                                                                |
-| https://assets.weforum.org/editor/AYpJgsnL2_I9pUhBQ7HII-erCJSEZ 9dsC4eVn5Ydfck.png, WEF).                                                           |
-| Another case, within the United States courtshttps://www.propublica.org/article/machine-bias-riskassessments-in-criminal-sentencing                 |
-| (Software used in the United States with the aim of predicting which individuals more than others are likely to be “future criminals”               |
-| - has highlighted bias/prejudice against people of colour.Lastly,the extensive use of NLP techniques is rapidly showing how muchthe                 |
-|  vocabularies of the most spoken languages                                                                                                          |
-| https://www.technologyreview.com/s/602025/how-vector-space-mathematicsreveals-the-hidden-sexism-in-language/, are strongly affected by gender bias. |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------+
 
 
 .. rubric:: Footnotes
