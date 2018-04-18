@@ -48,4 +48,5 @@ following this path we will succeed in relating the benefits of Artificial Intel
 daily “practice” of citizens.
 
 Antonio Samaritani
+
 Director General of the Agency for Digital Italy
