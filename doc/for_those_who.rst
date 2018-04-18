@@ -166,6 +166,20 @@ a discussion that must not stop, but that must accompany the processes of develo
 modernization and improvement of the state and of our society from here onwards.
 
 
-
++-----------------------------------------------------------------------------------------------------------------------+
+| Eudaimonia (gr. εὐδαιμονία, lett. “being in the company of a good demon”), as illustrated by Aristotle                |
+| defines human well-being as the highest virtue for a society. Eudaimonia can also mean “prosperity”,                  |
+| as it denotes an overall condition of well-being in which human beings perceive their benefits starting               |
+| from the conscious contemplation of ethical considerations thath elp us define how we wish to live.                   |
+| Whether our ethical substratum is Western (Aristotelian, Kantian), Oriental (Shinto, Confucian), African (ubuntu)     |
+| or attributable to any other tradition, creating autonomous and intelligent systems that explicitly respect the       |
+| inalienable human rights and cultural values of users, it is possible to give priority to the improvement of human    |
+| well-being as a parameter for progress in the “algorithmic age”. Recognizing the potential of a holistic approach,    |
+| prosperity should in this way become more important than the pursuit of one-dimensional objectives such as increased  |
+| productivity or a country’s GDP growth.                                                                               |
+| Source: The IEEE Global Initiative on Ethics of Autonomous and Intelligent Systems_, 2017,                            |
+| IEEE - Institute of Electrical and Electronics Engineers                                                              |
+| Ref. (https://standards.ieee.org/develop/indconn/ec/ead_executive_summary_v2.pdf)Executive summary10                  |
++-----------------------------------------------------------------------------------------------------------------------+
 
 
