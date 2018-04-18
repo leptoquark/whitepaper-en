@@ -63,9 +63,7 @@ guidelines and appropriate content standards.
 
 To achieve these ambitious objectives, there are many issues to be addressed, including 
 some that have been appearing in the e-government plans of developed countries for many 
-years.
-
-These include:
+years. These include:
 
 -  truthfulness and completeness of data;
 
