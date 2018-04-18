@@ -55,6 +55,53 @@ For example [4]_ here we can mention:
 
 -  *Tax system*: Application of AI techniques to identify cases of potential tax avoidance and evasion through 
    the analysis and crossover of data from different sectors of the state.
+   
+-  *Environmental monitoring*: the use of machine learning algorithms on 5G wireless sensor data (ex. video cameras,
+   radioactivity detectors, chemicals, temperature, brightness, humidity, etc.) could allow
+   monitoring and intercepting critical events in the territory (ex. automatic search of events
+   on video surveillance data combined with chemical detection analysis to identify eco-crimes
+   such as spills of harmful substances, similarly possible to define indicators for fires, floods,
+   collapses, etc.).
+   
+   
+  
++----------------------------------------------------------------------------------------------+
+| BORBOT PROJECT                                                                               |
+| Project: virtual assistant to support customer service staff                                 |
+| AI technology used: question answering                                                       |
+| Public entities involved: National Museum of the Royal Palace of Caserta                     |
+| The Borbot project, which stands for Borboni and Robotics, was launched in 2017              |
+| by the National Museum of the Royal Palace of Caserta. It is a virtual assistant,            |
+| present on the Museum’s Facebook page, which through question answering is                   |
+| able to respond to users’ questions, providing detailed tourist information and news         |
+| on the monument.In a month, the system was able to perform an average of 20 thousand         |
+| interactions, supporting the Museum’s front office service and allowing the customer service |
+| staff to focus on services with greater added value.                                         |
+| Website: http://borbot.it/DECISION                                                           |
++----------------------------------------------------------------------------------------------+
+
++----------------------------------------------------------------------------------------------------+
+| DECISION SUPPORT SYSTEM FOR                                                                        |
+| CHRONICOBSTRUCTIVE PULMONARY DISEASE                                                               |
+|                                                                                                    |
+| Project: remote monitoring system for patients suffering from COPDAI                               |
+| technology used: machine learning                                                                  |
+| Public entities involved: Unit of Processing Systems and Bio-IT                                    |
+| of the Bio-Medico Campus of Rome, Polyclinic University Bio-Medico                                 |
+| Campus of RomeThe Polyclinic University Bio-Medico Campus of Rome                                  |
+| has experimented on a group of 22 patients with COPD the use of a home remote monitoring system    |
+| capable of detecting potentially dangerous events for patients.Developed by the Unit of Processing |
+| Systems and Bio-IT of the Bio-Medico Campus of Rome, it works through AI techniques of             |
+| machine learning and acquires three times a day heart rate data and haemoglobin saturation         |
+| through a pulse oximeter connected to an app specifically designed for smartphones.This way,       |
+| the system evaluates any dangerous situations for the patient and signals them to the healthcare   |
+| unit.The experiments on the data collected show that the recognition performance of potentially    |
+| dangerous events of the system are better than those obtained by medical experts.                  |
+| Furthermore, the support offered by the system in thedecision-making process allows                |
+| increasing agreement among specialists.                                                            |
+|                                                                                                    |
+| Website: www.unicampus.it/ricerca/unita-di-ricerca/sistemi-di-elaborazionee-bioinformatica         |
++----------------------------------------------------------------------------------------------------+
 
 
 .. rubric:: Footnotes
