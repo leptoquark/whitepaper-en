@@ -45,15 +45,13 @@ not only from a long-term perspective, but, in certain cases, even in the curren
 
 For example [4]_ here we can mention:
 
-Healthcare system
------------------
-Diagnostic tools able to assist in the analysis of reports; integration of different sources and 
-data merging; epidemiological analysis to identify public health risks early; instant translation 
-services to facilitate hospital and territorial medical visits to foreigners; predictive tools to 
-evaluate potential risks of disease evolution or to evaluate the effectiveness of therapies; 
-patient assistance tools, able to follow them during treatment; precision medicine, for 
-the identification of personalised treatments; better logistics organisation of healthcare 
-structure activities.
+-  *Healthcare system*: Diagnostic tools able to assist in the analysis of reports; integration of different sources and 
+   data merging; epidemiological analysis to identify public health risks early; instant translation 
+   services to facilitate hospital and territorial medical visits to foreigners; predictive tools to 
+   evaluate potential risks of disease evolution or to evaluate the effectiveness of therapies; 
+   patient assistance tools, able to follow them during treatment; precision medicine, for 
+   the identification of personalised treatments; better logistics organisation of healthcare 
+   structure activities.
 
 Citizen relations
 -----------------
