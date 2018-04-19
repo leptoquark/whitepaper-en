@@ -52,11 +52,11 @@ financial perimeter and the diversified technical needs: from the more classic
 appeal to the Electronic Market for Public Administration (`MEPA <https://www.acquistinretepa.it/opencms/opencms/>`__) and to the 
 Public Connection System (SPC), in particular, `lot 3 <https://www.spclotto3.it/>`__ on Interoperability for data 
 and application cooperation and `lot 4 <https://www.spclotto4.it/index.html>`__ on the creation and management of 
-portals, APP, websites and web applications), up to the procurement tools for 
-innovation.
+portals, APP, websites and web applications), up to the procurement `tools for 
+innovation <https://www.agid.gov.it/agenda-digitale/innovazione-del-mercato>`__.
 In particular, on this last front, the references are those of pre-commercial 
-procurement (PCP, both on a national scale also in the context of regional 
-planning through European funds) and finally to the public procurement of 
+procurement (PCP, both on a national scale also in the context of `regional 
+planning <https://www.agid.gov.it/agenda-digitale/innovazione-del-mercato/pcp-por-2014-20>`__ through European funds) and finally to the public procurement of 
 services and innovative products (PPI).
 
 Start small
@@ -68,7 +68,7 @@ Developing a pilot program allows those who decide to implement AI solutions
 to become familiar with the technology and to correct any errors during 
 development thus allowing the service itself to improve.
 There are several models that can be used to set up projects in an agile 
-manner: the site `designers.italia.it <https://designers.italia.it/>`__  provides a tailor-made kit for the PA for the 
+manner: the site `designers.italia.it <https://designers.italia.it/>`__ provides a tailor-made kit for the PA for the 
 development and design of projects. 
 In addition, AI involves a series of risks, well highlighted in the various challenges 
 of the White Paper, related to data protection and privacy, ethical dilemmas, the 
@@ -89,8 +89,8 @@ accessible.
 Thus, all administrations must ensure the quality and usability of the data they 
 provide, so as to be easily employed to test, use and refine AI systems.
 Useful tools, modelled on the needs of the PA for the use of data, their 
-interpretation and procedures for release, are the site `dati.gov.it <https://www.dati.gov.it/>`__ and the National 
-`Guidelines <http://lg-patrimonio-pubblico.readthedocs.io/it/latest/>`__for the Valorisation of Public Information Assets.
+interpretation and procedures for release, are the site `dati.gov.it <https://www.dati.gov.it/>`__ and the `National
+Guidelines <http://lg-patrimonio-pubblico.readthedocs.io/it/latest/>`__ for the Valorisation of Public Information Assets.
 
 Development of professionalism and skills
 -----------------------------------------
@@ -115,6 +115,5 @@ to stay updated on developments and news.
 The  `community <https://ia.italia.it/community/>`__, will also remain active, where it is possible to participate in open 
 (or start new) discussions on issues related to the Task Force activity and to AI 
 in general.
-For any information or any collaboration, there is always the email 
-intelligenzaartificiale@agid.gov.it `intelligenza-artificiale@agid.gov.it <mailto:intelligenza-artificiale@agid.gov.it>`__
+For any information or any collaboration, there is always the email `intelligenza-artificiale@agid.gov.it <mailto:intelligenza-artificiale@agid.gov.it>`__
 
